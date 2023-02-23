@@ -24,5 +24,5 @@
 
 <h3>Gráficos de pizza e de barras apresentando os dados em um dashboard no Power BI:</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/95757534/221044910-b856e809-54f4-40ea-9cf9-81bc845ce434.jpg">
+<img src="https://user-images.githubusercontent.com/95757534/221044910-b856e809-54f4-40ea-9cf9-81bc845ce434.jpg" width="100%">
 </p>
